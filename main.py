@@ -55,28 +55,28 @@ class LoginForm(Form):
 def index():
     if 'Username' in session:
         return render_template("index.html")
-    return render_template("login.html")
+    return render_template("index.html")
 
 
 @app.route("/statistics")
 def statistics():
     if 'Username' in session:
         return render_template("Statistics.html")
-    return render_template("login.html")
+    return render_template("Statistics.html")
 
 
 @app.route('/eligibility')
 def eligibility():
     if 'Username' in session:
         return render_template('eligibility.html')
-    return render_template("login.html")
+    return render_template("eligibility.html")
 
 
 @app.route('/InterestRate')
 def interestRate():
     if 'Username' in session:
         return render_template('InterestRate.html')
-    return render_template("login.html")
+    return render_template("InterestRate.html")
 
 
 def get_prediction_intereset(_type, features):

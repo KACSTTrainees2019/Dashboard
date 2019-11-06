@@ -4,6 +4,7 @@
 * Nawal Almgren
 * Alanoud Alsaud
 * Sarah Alabdulhadi
+* Hamad Alaqeel [Github profile](https://github.com/hamadalaqeel), [LinkedIn](https://www.linkedin.com/in/hamad-alaqeel/)
 
 
 # Summary 

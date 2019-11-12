@@ -5,8 +5,7 @@
 * Alanoud Alsaud
 * Sarah Alabdulhadi
 * Hamad Alaqeel [Github profile](https://github.com/hamadalaqeel), [LinkedIn](https://www.linkedin.com/in/hamad-alaqeel/)
-* Turki Al-Alola
-
+* Ahmad Abu Haimed [Github profile](https://github.com/AhmadMohammed), [LinkedIn](https://www.linkedin.com/in/Ahmed-Abuhaimed/)
 
 # Summary 
 A website to help banker decided whether the person who request a loan is eligible or not, with support charts and suggested interest rate. 

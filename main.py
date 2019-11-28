@@ -64,6 +64,11 @@ def statistics():
         return render_template("Statistics.html")
     return render_template("Statistics.html")
 
+@app.route("/help")
+def help():
+    if 'Username' in session:
+        return render_template("help.html")
+    return render_template("login.html")
 
 @app.route('/eligibility')
 def eligibility():

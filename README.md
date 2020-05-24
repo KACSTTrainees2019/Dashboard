@@ -1,5 +1,5 @@
 # Team :
-* Abdulrahman AL-Homaidany
+* Abdulrahman AL-Homaidany [Github profile](https://github.com/asaah18), [LinkedIn](https://www.linkedin.com/in/abdulrahman-alhomaidany/)
 * Raghad Alkhudhair
 * Nawal Almgren
 * Alanoud Alsaud

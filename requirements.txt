@@ -10,7 +10,7 @@ Flask-PyMongo==2.3.0
 idna==2.8
 joblib==0.13.2
 MarkupSafe==1.1.1
-numpy==1.16.5
+numpy==1.22.0
 protobuf==3.9.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
